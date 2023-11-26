@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Icons/outline_settings_black_48pt_3x.png</file>
+        <file>Icons/logo.jpg</file>
+        <file>Icons/icon.png</file>
+        <file>Icons/Logo.png</file>
+        <file>Icons/perticon.png</file>
+    </qresource>
+</RCC>
